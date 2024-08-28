@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align=center>
+  <img src="https://count.getloli.com/get/@:misapostle"/>
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,go">
+  <br>
 
-<!--
-**misapostle/misapostle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=misapostle&data=followers,repositories,stars,commits&theme=darkmode" width=500>
+  <br>
+  
+  <a href="xmpp:sw@anoxinon.me?message"><img src="https://img.shields.io/badge/XMPP-Message%20me-5e2775?style=for-the-badge&logo=proxmox&labelColor=db44ad&color=5e2775"></a>
+</p>
