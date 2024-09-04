@@ -2,7 +2,7 @@
   <img src="https://count.getloli.com/get/@:misapostle"/>
   <br>
   
-  <img src="https://skillicons.dev/icons?i=cpp,rust,cs,py,go,elixir">
+  <img src="https://skillicons.dev/icons?i=cs,py,js,go">
   <br>
 
   <img src="https://github-widgetbox.vercel.app/api/profile?username=misapostle&data=followers,repositories,stars,commits&theme=darkmode" width=500>
